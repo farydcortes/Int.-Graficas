@@ -1,3 +1,5 @@
+# JEREMY FARYD CORTES MUÑOZ 1910064
+
 # Importamos los módulos necesarios de la biblioteca tkinter
 from tkinter import Button, Tk, Frame,Entry,END
 
